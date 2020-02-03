@@ -1,0 +1,17 @@
+
+.square {
+    width: 37.5px;
+    height: 37.5px;
+}
+
+#game-container {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 600px;
+    border: 2px solid black;
+}
+
+/*
+Lake Louise: */
